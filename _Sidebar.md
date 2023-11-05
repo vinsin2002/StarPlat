@@ -13,17 +13,10 @@
 
 <details>
 <summary><b>Installation</b></summary>
-<li>
 <details>
 <summary><b>Acquacluster</b></summary>
-<li>
-<details>
-<summary><b>CUDA</b></summary>
+- [CUDA]
+- [OpenMP]
+- [MPI]
 </details>
-<details>
-<summary><b>MPI</b></summary>
-</details>
-</li>
-</details>
-</li>
 </details>
