@@ -1,6 +1,11 @@
 ## Build
 #### Linux | MPI
 This section is for Linux MPI
+
+### MacOS | CUDA
+
+It's unlikely that CUDA will ever be supported on ARM-based Apple systems. NVIDIA has left the Apple market after years of disagreements with Apple.
+
 #### MacOS | MPI
 By default, MacOS comes with the `clang` compiler, which can cause syntax errors when running the `make` command due to differences between `gcc` and `clang` semantics. To resolve this, follow these steps:
 
