@@ -1,0 +1,1 @@
+This wiki is a community–driven documentation page. If you want to request a topic for this wiki to address or discuss its content, head over to [issue](https://github.com/ashwina/StarPlat/issues/49).
