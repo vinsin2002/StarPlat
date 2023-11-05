@@ -12,28 +12,6 @@
 </details>
 
 <details>
-<summary><b>Installation</b></summary>
-
-- [Installation](https://github.com/durwasa-chakraborty/StarPlat/wiki/Installation)
-- [AquaCluster]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [Linux]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [MacOS]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [Windows]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-</details>
-
-<details>
 <summary><b>Build</b></summary>
 
 - [Build](https://github.com/durwasa-chakraborty/StarPlat/wiki/Build)
