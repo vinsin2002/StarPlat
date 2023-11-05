@@ -3,7 +3,7 @@
 ### MacOS
 By default, MacOS comes with the `clang` compiler, which can cause syntax errors when running the `make` command due to differences between `gcc` and `clang` semantics. To resolve this, follow these steps:
 
-## Installation:
+### Installation:
 
 1. Install `gcc` using Homebrew:
 
