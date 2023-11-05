@@ -124,4 +124,4 @@
 <details>
 <summary><b>Miscellaneous / Tips and Tricks</b></summary>
 
-- [Miscellaenous](https://github.com/durwasa-chakraborty/StarPlat/wiki/Miscellaneous#miscellaneous)
+- [Installing Boost Libraries](https://github.com/durwasa-chakraborty/StarPlat/wiki/Miscellaneous#installing-boost-libraries-to-run-starplat-for-mpi)
