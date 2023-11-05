@@ -15,16 +15,19 @@
 <summary><b>Installation</b></summary>
 <details>
 <summary><b>Acquacluster</b></summary>
+
 - [CUDA](https://github.com/durwasa-chakraborty/StarPlat/wiki/Installation)
 - [OpenMP](https://github.com/durwasa-chakraborty/StarPlat/wiki/Installation)
 - [MPI](https://github.com/durwasa-chakraborty/StarPlat/wiki/Installation)
 </details>
+
 <details>
 <summary><b>Linux</b></summary>
 - [CUDA](https://github.com/durwasa-chakraborty/StarPlat/wiki/Installation)
 - [OpenMP](https://github.com/durwasa-chakraborty/StarPlat/wiki/Installation)
 - [MPI](https://github.com/durwasa-chakraborty/StarPlat/wiki/Installation)
 </details>
+
 <details>
 <summary><b>MacOS</b></summary>
 - [CUDA](https://github.com/durwasa-chakraborty/StarPlat/wiki/Installation)
