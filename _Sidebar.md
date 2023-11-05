@@ -13,7 +13,6 @@
 
 <details>
 <summary><b>Installation</b></summary>
-- [Installation](https://github.com/durwasa-chakraborty/StarPlat/wiki#installation-requirement)
 - [AquaCluster]
   - [CUDA]
   - [OMP]
