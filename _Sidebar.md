@@ -13,32 +13,23 @@
 
 <details>
 <summary><b>Installation</b></summary>
-
 - [Installation](https://github.com/durwasa-chakraborty/StarPlat/wiki#installation-requirement)
-<details>
-<summary><b>AquaCluster</b></summary>
-- [CUDA]
-- [OMP]
-- [MPI]
-</details>
-<details>
-<summary><b>Linux</b></summary>
-- [CUDA]
-- [OMP]
-- [MPI]
-</details>
-<details>
-<summary><b>MacOS</b></summary>
-- [CUDA]
-- [OMP]
-- [MPI]
-</details>
-<details>
-<summary><b>Windows</b></summary>
-- [CUDA]
-- [OMP]
-- [MPI]
-</details>
+- [AquaCluster]
+  - [CUDA]
+  - [OMP]
+  - [MPI]
+- [Linux]
+  - [CUDA]
+  - [OMP]
+  - [MPI]
+- [MacOS]
+  - [CUDA]
+  - [OMP]
+  - [MPI]
+- [Windows]
+  - [CUDA]
+  - [OMP]
+  - [MPI]
 </details>
 
 <details>
