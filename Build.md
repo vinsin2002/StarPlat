@@ -2,7 +2,7 @@
 #### Linux | MPI
 This section is for Linux MPI
 
-### MacOS | CUDA
+#### MacOS | CUDA
 
 It's unlikely that CUDA will ever be supported on ARM-based Apple systems. NVIDIA has left the Apple market after years of disagreements with Apple.
 
