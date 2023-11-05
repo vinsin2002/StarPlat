@@ -26,7 +26,7 @@
 - [MacOS]
   - [CUDA]
   - [OMP]
-  - [MPI](https://github.com/durwasa-chakraborty/StarPlat/wiki/Build#macos)
+  - [MPI](https://github.com/durwasa-chakraborty/StarPlat/wiki/Build#mpi)
 - [Windows]
   - [CUDA]
   - [OMP]
