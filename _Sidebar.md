@@ -2,7 +2,7 @@
 <h2>Documentation</h2>
 </div>
 
-<details open>
+<details>
 <summary><b>General</b></summary>
 
 - [What is StarPlat?](https://github.com/durwasa-chakraborty/StarPlat/wiki#what-is-starplat)
@@ -11,7 +11,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>Installation</b></summary>
 
 - [Installation](https://github.com/durwasa-chakraborty/StarPlat/wiki#installation-requirement)
@@ -33,7 +33,7 @@
   - [MPI]
 </details>
 
-<details open>
+<details>
 <summary><b>Build</b></summary>
 
 - [Build](https://github.com/durwasa-chakraborty/StarPlat/wiki#installation-requirement)
@@ -54,3 +54,74 @@
   - [OMP]
   - [MPI]
 </details>
+
+<details>
+<summary><b>Build</b></summary>
+
+- [Generate](https://github.com/durwasa-chakraborty/StarPlat/wiki#installation-requirement)
+- [AquaCluster]
+  - [CUDA]
+  - [OMP]
+  - [MPI]
+- [Linux]
+  - [CUDA]
+  - [OMP]
+  - [MPI]
+- [MacOS]
+  - [CUDA]
+  - [OMP]
+  - [MPI]
+- [Windows]
+  - [CUDA]
+  - [OMP]
+  - [MPI]
+</details>
+
+<details>
+<summary><b>Build</b></summary>
+
+- [Compile](https://github.com/durwasa-chakraborty/StarPlat/wiki#installation-requirement)
+- [AquaCluster]
+  - [CUDA]
+  - [OMP]
+  - [MPI]
+- [Linux]
+  - [CUDA]
+  - [OMP]
+  - [MPI]
+- [MacOS]
+  - [CUDA]
+  - [OMP]
+  - [MPI]
+- [Windows]
+  - [CUDA]
+  - [OMP]
+  - [MPI]
+</details>
+
+<details>
+<summary><b>Build</b></summary>
+
+- [Run](https://github.com/durwasa-chakraborty/StarPlat/wiki#installation-requirement)
+- [AquaCluster]
+  - [CUDA]
+  - [OMP]
+  - [MPI]
+- [Linux]
+  - [CUDA]
+  - [OMP]
+  - [MPI]
+- [MacOS]
+  - [CUDA]
+  - [OMP]
+  - [MPI]
+- [Windows]
+  - [CUDA]
+  - [OMP]
+  - [MPI]
+</details>
+
+<details>
+<summary><b>Miscellaneous / Tips and Tricks</b></summary>
+
+- [Miscellaenous](https://github.com/durwasa-chakraborty/StarPlat/wiki#installation-requirement)
