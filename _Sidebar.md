@@ -15,6 +15,7 @@
 <summary><b>Installation</b></summary>
 <details>
 <summary><b>Acquacluster</b></summary>
+
 - [CUDA]
 - [OpenMP]
 - [MPI]
