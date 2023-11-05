@@ -14,7 +14,6 @@
 <details>
 <summary><b>Build</b></summary>
 
-- [Build](https://github.com/durwasa-chakraborty/StarPlat/wiki/Build)
 - [AquaCluster]
   - [CUDA]
   - [OMP]
