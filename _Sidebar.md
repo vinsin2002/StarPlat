@@ -124,4 +124,4 @@
 <details>
 <summary><b>Miscellaneous / Tips and Tricks</b></summary>
 
-- [Miscellaenous](https://github.com/durwasa-chakraborty/StarPlat/wiki#installation-requirement)
+- [Miscellaenous](https://github.com/durwasa-chakraborty/StarPlat/wiki/Miscellaneous#miscellaneous)
