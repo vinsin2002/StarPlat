@@ -56,7 +56,7 @@
 </details>
 
 <details>
-<summary><b>Build</b></summary>
+<summary><b>Generate</b></summary>
 
 - [Generate](https://github.com/durwasa-chakraborty/StarPlat/wiki#installation-requirement)
 - [AquaCluster]
@@ -78,9 +78,9 @@
 </details>
 
 <details>
-<summary><b>Build</b></summary>
+<summary><b>Compile Generated Code</b></summary>
 
-- [Compile](https://github.com/durwasa-chakraborty/StarPlat/wiki#installation-requirement)
+- [Compile Generated Code](https://github.com/durwasa-chakraborty/StarPlat/wiki#installation-requirement)
 - [AquaCluster]
   - [CUDA]
   - [OMP]
@@ -100,7 +100,7 @@
 </details>
 
 <details>
-<summary><b>Build</b></summary>
+<summary><b>Run</b></summary>
 
 - [Run](https://github.com/durwasa-chakraborty/StarPlat/wiki#installation-requirement)
 - [AquaCluster]
