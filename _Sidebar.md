@@ -35,6 +35,7 @@
 
 <details open>
 <summary><b>Build</b></summary>
+
 - [Build](https://github.com/durwasa-chakraborty/StarPlat/wiki#installation-requirement)
 - [AquaCluster]
   - [CUDA]
