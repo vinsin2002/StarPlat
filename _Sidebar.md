@@ -13,115 +13,14 @@
 
 <details>
 <summary><b>Installation</b></summary>
-
-- [Installation](https://github.com/durwasa-chakraborty/StarPlat/wiki/Installation)
-- [AquaCluster]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [Linux]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [MacOS]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [Windows]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-</details>
-
 <details>
-<summary><b>Build</b></summary>
-
-- [Build](https://github.com/durwasa-chakraborty/StarPlat/wiki/Build)
-- [AquaCluster]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [Linux]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [MacOS]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [Windows]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
+<summary><b>Acquacluster</b></summary>
 </details>
-
 <details>
-<summary><b>Generate</b></summary>
-
-- [Generate](https://github.com/durwasa-chakraborty/StarPlat/wiki/Generate)
-- [AquaCluster]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [Linux]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [MacOS]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [Windows]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
+<summary><b>CUDA</b></summary>
 </details>
-
 <details>
-<summary><b>Compile Generated Code</b></summary>
-
-- [Compile Generated Code](https://github.com/durwasa-chakraborty/StarPlat/wiki/Compile-Generated-Code)
-- [AquaCluster]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [Linux]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [MacOS]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [Windows]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
+<summary><b>OpenMP</b></summary>
 </details>
-
-<details>
-<summary><b>Run</b></summary>
-
-- [Run](https://github.com/durwasa-chakraborty/StarPlat/wiki/Run)
-- [AquaCluster]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [Linux]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [MacOS]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
-- [Windows]
-  - [CUDA]
-  - [OMP]
-  - [MPI]
 </details>
-
-<details>
-<summary><b>Miscellaneous / Tips and Tricks</b></summary>
-
-- [Miscellaenous](https://github.com/durwasa-chakraborty/StarPlat/wiki/Miscellaneous#miscellaneous)
+</details>
