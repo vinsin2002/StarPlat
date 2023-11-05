@@ -14,7 +14,7 @@
 <details>
 <summary><b>Installation</b></summary>
 
-- [Build](https://github.com/durwasa-chakraborty/StarPlat/wiki/Installation)
+- [Installation](https://github.com/durwasa-chakraborty/StarPlat/wiki/Installation)
 - [AquaCluster]
   - [CUDA]
   - [OMP]
