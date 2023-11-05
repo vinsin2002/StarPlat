@@ -1,14 +1,13 @@
 <div align="left">
-<h2><img align="left" height="25" src="https://github.com/koekeishiya/yabai/blob/master/assets/icon/icon.svg" alt="Icon">Documentation</h2>
+<h2>Documentation</h2>
 </div>
 
 <details open>
 <summary><b>General</b></summary>
 
-- [What is yabai?](https://github.com/koekeishiya/yabai/wiki#yabai)
-- [Installation requirements](https://github.com/koekeishiya/yabai/wiki#installation-requirements)
-- [Quickstart guide](https://github.com/koekeishiya/yabai/wiki#quickstart-guide)
-- [Comparison with other window managers](https://github.com/koekeishiya/yabai/wiki#comparison-with-other-window-managers)
+- [What is StarPlat?](https://github.com/durwasa-chakraborty/StarPlat/wiki#what-is-starplat)
+- [Installation requirements](https://github.com/durwasa-chakraborty/StarPlat/wiki#installation-requirement)
+- [Quickstart guide](https://github.com/durwasa-chakraborty/StarPlat/wiki#quickstart-guide)
 
 </details>
 
