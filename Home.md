@@ -21,6 +21,46 @@ https://github.com/$inserted_string/StarPlat/wiki/|g" {} +
 
 ```
 
+Thank you for contributing to our wiki! To ensure uniformity and readability across our documentation, please adhere to the following guidelines when creating or editing content:
+
+#### Page Titles
+- Every page should begin with a primary title using `h2` or preceded by `##`.
+
+  **Example:** 
+  ```
+  ## Introduction to Parallel Programming
+  ```
+
+## Operating System or Architecture Subsections
+- When mentioning a specific OS or architecture, pair it with the type of parallelization framework.
+- Use `h4` or precede with `####` for these subsections.
+
+  **Example:** 
+  ```
+  #### Windows | OpenMP
+  ```
+
+#### File Names
+- Whenever referring to a file name, wrap the name with single backticks.
+
+  **Example:** 
+  ```
+  Open the `README.md` file for more instructions.
+  ```
+
+#### Code Snippets
+- For code snippets or command examples, always enclose them with three backticks. If possible, specify the programming language immediately after the first three backticks for syntax highlighting.
+
+  **Example:** 
+  ```markdown
+  ```python
+  def hello_world():
+      print("Hello, world!")
+  ```
+  ```
+
+Thank you for adhering to these guidelines.
+
 ### Quickstart Guide
 
 
