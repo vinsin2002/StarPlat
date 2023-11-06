@@ -47,7 +47,7 @@
 - [MacOS]
   - [CUDA]
   - [OMP]
-  - [MPI]
+  - [MPI](https://github.com/durwasa-chakraborty/StarPlat/wiki/Generate#macos--mpi)
 - [Windows]
   - [CUDA]
   - [OMP]
