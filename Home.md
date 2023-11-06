@@ -31,7 +31,6 @@ Thank you for contributing to our wiki! To ensure uniformity and readability acr
   ```
   ## Introduction to Parallel Programming
   ```
-
 **Operating System or Architecture Subsections**
 - When mentioning a specific OS or architecture, pair it with the type of parallelization framework.
 - Use `h4` or precede with `####` for these subsections.
@@ -40,7 +39,6 @@ Thank you for contributing to our wiki! To ensure uniformity and readability acr
   ```
   #### Windows | OpenMP
   ```
-
 **File Names**
 - Whenever referring to a file name, wrap the name with single backticks.
 
@@ -48,7 +46,6 @@ Thank you for contributing to our wiki! To ensure uniformity and readability acr
   ```
   Open the `README.md` file for more instructions.
   ```
-
 **Code Snippets**
 - For code snippets or command examples, always enclose them with three backticks. If possible, specify the programming language immediately after the first three backticks for syntax highlighting.
 
@@ -57,7 +54,6 @@ Thank you for contributing to our wiki! To ensure uniformity and readability acr
   ```python
   def hello_world():
       print("Hello, world!")
-  ```
   ```
 
 Thank you for adhering to these guidelines.
