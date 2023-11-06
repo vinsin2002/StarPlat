@@ -4,7 +4,7 @@ This section is for Linux MPI
 
 #### MacOS | CUDA
 
-It's unlikely that CUDA will ever be supported on ARM-based Apple systems. NVIDIA has left the Apple market after years of disagreements with Apple.
+While users can technically build the StarPlat project on MacOS using the `-b cuda` option, it's essential to note that given the historical disagreements and the departure of NVIDIA from the Apple ecosystem, the chances of CUDA being supported on ARM-based Apple systems in the future are slim. Even if the StarPlat project builds successfully with the `-b cuda` flag on MacOS, the main goal, which is to run the binary, remains unachieved due to the mentioned constraints.
 
 #### MacOS | MPI
 By default, MacOS comes with the `clang` compiler, which can cause syntax errors when running the `make` command due to differences between `gcc` and `clang` semantics. To resolve this, follow these steps:
