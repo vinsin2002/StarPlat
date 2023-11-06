@@ -33,10 +33,25 @@ Furthermore, link to the Boost libraries:
 ```
 -I/path/to/boost/include  -L/path/to/boost/lib -lboost_mpi -lboost_serialization
 ```
-
-Combining the above details, the full compilation command becomes:
+Check if the installed `boost` has `include` and `lib`
+```bash
+if [ -d "/path/to/boost/" ] ; then
+    echo "Directory exists."
+else
+    echo "Directories do not exist."
+fi
 ```
-OMPI_CXX=g++ mpic++ -std=c++17 -o sssp_dslV2 main.cc sssp_dslV2.cc ../mpi_header/graph_mpi.cc ../mpi_header/updates.cc ../mpi_header/graph_properties/node_property/node_property.cc ../mpi_header/graph_properties/edge_property/edge_property.cc ../mpi_header/rma_datatype/rma_datatype.cc -g -Wall -I/path/to/boost/include  -L/path/to/boost/lib -lboost_mpi -lboost_serialization
+
+Combining the above details, the complete compilation command becomes:
+```
+OMPI_CXX=g++ mpic++ -std=c++17 \
+-o sssp_dslV2 \
+main.cc sssp_dslV2.cc \
+../mpi_header/graph_mpi.cc \
+../mpi_header/updates.cc \
+../mpi_header/graph_properties/node_property/node_property.cc \
+../mpi_header/graph_properties/edge_property/edge_property.cc \
+../mpi_header/rma_datatype/rma
 ```
 
 Here's a sample `main.cc` program:
@@ -62,5 +77,5 @@ int main(int argc, char *argv[])
 ```
 
 Please note: 
-- Ensure the Boost library is properly installed and configured as mentioned earlier.
+- Please make sure the Boost library is installed correctly and configured like mentioned earlier.
 - Adjust the paths in the commands and include statements based on the actual directory structure of your project.
