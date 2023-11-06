@@ -8,6 +8,7 @@
 - [What is StarPlat?](https://github.com/durwasa-chakraborty/StarPlat/wiki#what-is-starplat)
 - [Installation requirements](https://github.com/durwasa-chakraborty/StarPlat/wiki#installation-requirement)
 - [Quickstart guide](https://github.com/durwasa-chakraborty/StarPlat/wiki#quickstart-guide)
+- [Wiki Guidelines](https://github.com/durwasa-chakraborty/StarPlat/wiki#guidelines)
 
 </details>
 
