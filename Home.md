@@ -31,7 +31,7 @@ Thank you for contributing to our wiki! To ensure uniformity and readability acr
   ## Introduction to Parallel Programming
   ```
 
-## Operating System or Architecture Subsections
+#### Operating System or Architecture Subsections
 - When mentioning a specific OS or architecture, pair it with the type of parallelization framework.
 - Use `h4` or precede with `####` for these subsections.
 
