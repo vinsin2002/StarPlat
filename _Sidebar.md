@@ -70,7 +70,7 @@
 - [MacOS]
   - [CUDA]
   - [OMP]
-  - [MPI]
+  - [MPI](https://github.com/durwasa-chakraborty/StarPlat/wiki/Compile-Generated-Code#macos--mpi)
 - [Windows]
   - [CUDA]
   - [OMP]
