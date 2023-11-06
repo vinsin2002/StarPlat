@@ -9,7 +9,7 @@ StarPlat is a graph DSL that simplifies parallelizing graph algorithms across di
 ### Installation Requirement
 ### Wiki Guidelines
 
-Notice that cloning this Wiki would point all the URLs to `/durwasa-chakraborty/StarPlat` which is a forked repository of the original `ashwina` Starplat. In order to point to the original one run the following command - 
+Notice that cloning this Wiki would point all the URLs to `/durwasa-chakraborty/StarPlat` which is a forked repository of the original `ashwina` Starplat. In order to point to the Username one run the following command - 
 
 ``` bash
 inserted_string="YOUR_NEW_USERNAME" # replace with your desired string
