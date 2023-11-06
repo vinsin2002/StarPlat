@@ -55,7 +55,5 @@ Thank you for contributing to our wiki! To ensure uniformity and readability acr
   def hello_world():
       print("Hello, world!")
   ```
-```
-Thank you for adhering to these guidelines.
 
 
