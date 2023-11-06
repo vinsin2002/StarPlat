@@ -50,11 +50,12 @@ Thank you for contributing to our wiki! To ensure uniformity and readability acr
 - For code snippets or command examples, always enclose them with three backticks. If possible, specify the programming language immediately after the first three backticks for syntax highlighting.
 
   **Example:** 
+```markdown
   ```python
   def hello_world():
       print("Hello, world!")
   ```
-
+```
 Thank you for adhering to these guidelines.
 
 
