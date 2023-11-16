@@ -14,7 +14,7 @@ The initial step of cloning the repository is the same across all operating syst
    ```
 
 
-#### Aquacluster | MPI
+#### Aquacluster
 
 ```
 cd /path/to/StarPlat/src
@@ -22,14 +22,11 @@ make
 ```
 Optional: If you're working on a project that requires a specific version of g++, or if you need to ensure that your build process uses the g++ compiler located at `/lfs/sware/gcc9.2.0/bin/g++`, you can set this path in the `CC` environment variable. This is particularly useful in build environments where multiple compiler versions are installed or the default compiler is unsuitable for your project.
 
-#### Linux | MPI
+#### Linux
 This section is for Linux MPI
 
-#### MacOS | CUDA
+#### MacOS
 
-It's unlikely that CUDA will ever be supported on ARM-based Apple systems. NVIDIA has left the Apple market after years of disagreements with Apple.
-
-#### MacOS | MPI
 By default, MacOS comes with the `clang` compiler, which can cause syntax errors when running the `make` command due to differences between `gcc` and `clang` semantics. To resolve this, follow these steps:
 
 #### Installation:
