@@ -1,4 +1,26 @@
 ## Build
+To build the AcquaCluster project, you can clone the repository to your local machine, as direct cloning into AcquaCluster is difficult due to elevated privilege requirements. Here's a step-by-step guide to get you started:
+
+- Use Git to clone the repository to your local machine. This can be done using the git clone command followed by the repository URL.
+
+- Once cloned, use the `scp` (secure copy) command to transfer the project files from your local machine to the AcquaCluster environment. The `scp` command allows you to transfer files between two machines over a network securely.
+
+- After transferring the files, you can use a text editor available in AcquaCluster to make changes directly to the code at its source location. This step is convenient for making quick modifications or updates to your project.
+
+Example:
+```
+$ git clone https://github.com/ashwina/StarPlat
+$ scp -r  /path/to/StarPlat/* rnintern@aqua.iitm.ac.in:~/scratch/username
+```
+
+#### Aquacluster | MPI
+
+```
+cd /path/to/StarPlat/src
+make
+```
+Optional: If you're working on a project that requires a specific version of g++, or if you need to ensure that your build process uses the g++ compiler located at `/lfs/sware/gcc9.2.0/bin/g++`, you can set this path in the `CC` environment variable. This is particularly useful in build environments where multiple compiler versions are installed or the default compiler is unsuitable for your project.
+
 #### Linux | MPI
 This section is for Linux MPI
 
