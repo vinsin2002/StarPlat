@@ -2,19 +2,16 @@
 
 The initial step of cloning the repository is the same across all operating systems. This guide, however, focuses specifically on transferring and editing files within the Aquacluster environment due to its unique requirements.
 
-**Cloning the Repository**
-1. **Clone Locally**: Use Git to clone the repository to your local machine.
+- **Clone Locally**: Use Git to clone the repository to your local machine.
    ```bash
    git clone https://github.com/ashwina/StarPlat
    ```
 
-**Transferring Files to Aquacluster**
-2. **Transfer Files**: Use the `scp` command to securely transfer the project files from your local machine to the Aquacluster environment.
+
+- **Transfer Files**: Use the `scp` command to securely transfer the project files from your local machine to the Aquacluster environment.
    ```bash
    scp -r /path/to/StarPlat/* rnintern@aqua.iitm.ac.in:~/scratch/username
    ```
-
-**Note**: Replace `/path/to/StarPlat/` with the actual path to your cloned repository and `rnintern@aqua.iitm.ac.in:~/scratch/username` with your Aquacluster username and path.
 
 
 #### Aquacluster | MPI
