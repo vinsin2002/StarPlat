@@ -15,22 +15,10 @@
 <details>
 <summary><b>Build</b></summary>
 
-- [AquaCluster]
-  - [CUDA]
-  - [OMP]
-  - [MPI](https://github.com/durwasa-chakraborty/StarPlat/wiki/Build#aquacluster--mpi)
-- [Linux]
-  - [CUDA]
-  - [OMP]
-  - [MPI](https://github.com/durwasa-chakraborty/StarPlat/wiki/Build#linux--mpi)
-- [MacOS]
-  - [CUDA](https://github.com/durwasa-chakraborty/StarPlat/wiki/Build#macos--cuda)
-  - [OMP]
-  - [MPI](https://github.com/durwasa-chakraborty/StarPlat/wiki/Build#macos--mpi)
-- [Windows]
-  - [CUDA]
-  - [OMP]
-  - [MPI](https://github.com/durwasa-chakraborty/StarPlat/wiki/Build#windows--mpi)
+- [AquaCluster](https://github.com/durwasa-chakraborty/StarPlat/wiki/Build#aquacluster)
+- [Linux](https://github.com/durwasa-chakraborty/StarPlat/wiki/Build#linux)
+- [MacOS](https://github.com/durwasa-chakraborty/StarPlat/wiki/Build#macos)
+- [Windows](https://github.com/durwasa-chakraborty/StarPlat/wiki/Build#windows)
 </details>
 
 <details>
