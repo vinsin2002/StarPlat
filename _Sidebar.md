@@ -18,7 +18,7 @@
 - [AquaCluster]
   - [CUDA]
   - [OMP]
-  - [MPI]
+  - [MPI](https://github.com/durwasa-chakraborty/StarPlat/wiki/Build#aquacluster--mpi)
 - [Linux]
   - [CUDA]
   - [OMP]
